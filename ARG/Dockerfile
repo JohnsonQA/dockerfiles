@@ -1,4 +1,4 @@
-#ARG is also same as env which we can use to pass varibale values
+#ARG is also same as env which we can use to pass varibale values as key value pairs
 #But env varibales can be used inside container and also build time varibale where ARG varibale are build time varaibles
 #In an exceptional case arg can be first instruction to suplly version to the base OS in FROM, we can't use this
 # after from instrction
